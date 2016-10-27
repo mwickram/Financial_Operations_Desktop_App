@@ -1,1 +1,3 @@
 # Financial_Operations_Desktop_App
+
+Two related financial processes are the calculation of an Annuity, and the calculation of a simple interest Loan.  The final balance of an annuity is based on a consistent, regular monthly deposit that builds value at a specified interest rate; the ‘logical reverse’ of this is a loan, which involves paying a monthly amount to buy down an original principal, which is also charging interest at a specified rate.  Both actions involve a monthly amount being adjusted based on an interest rate over a specified term (number of months). In either operation (Annuity or Loan) the user may request a ‘Full Schedule’ which will produce a second, pop-up form with the month-by-month results of the action.
